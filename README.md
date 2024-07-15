@@ -1,8 +1,20 @@
+# Object Detection
+1. Rich feature hierarchies for accurate object detection and semantic segmentation (2014) [PDF](https://arxiv.org/pdf/1311.2524.pdf)
+
+2. Fast R-CNN (2015) [PDF](https://arxiv.org/pdf/1504.08083.pdf)
+
+3. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016) [PDF](https://arxiv.org/pdf/1506.01497.pdf)
+
+4. End-to-End Object Detection with Transformers (2020) [PDF](https://arxiv.org/pdf/2005.12872.pdf)
+
+5. A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS (2024) [PDF](https://arxiv.org/pdf/2304.00501.pdf)  **ON-GOING**
+
+
 ## Handposes Estimation:
 
 1.HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network [PDF](https://arxiv.org/abs/2203.14564)
 
-2.iDisc: Internal Discretization for Monocular Depth Estimation [PDF](https://arxiv.org/abs/2304.06334)
+2.PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (RSS 2018) [PDF](https://arxiv.org/pdf/1711.00199.pdf)
 
 3.Efficient Controllable Multi-Task Architectures [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Aich_Efficient_Controllable_Multi-Task_Architectures_ICCV_2023_paper.pdf)
 
@@ -12,6 +24,3 @@
 
 6.Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
 
-7.Cross-task Attention Mechanism for Dense Multi-task Learning [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
-
-8.Towards Zero-Shot Scale-Aware Monocular Depth Estimation [PDF](https://arxiv.org/pdf/2306.17253.pdf)
